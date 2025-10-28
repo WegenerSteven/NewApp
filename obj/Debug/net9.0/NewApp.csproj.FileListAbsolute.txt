@@ -12,3 +12,4 @@ D:\SOFTWARE ENGINEERING\PROGRAMMING TUTORIALS\C#\intro-github\NewApp\obj\Debug\n
 D:\SOFTWARE ENGINEERING\PROGRAMMING TUTORIALS\C#\intro-github\NewApp\obj\Debug\net9.0\NewApp.pdb
 D:\SOFTWARE ENGINEERING\PROGRAMMING TUTORIALS\C#\intro-github\NewApp\obj\Debug\net9.0\NewApp.genruntimeconfig.cache
 D:\SOFTWARE ENGINEERING\PROGRAMMING TUTORIALS\C#\intro-github\NewApp\obj\Debug\net9.0\ref\NewApp.dll
+D:\SOFTWARE ENGINEERING\PROGRAMMING TUTORIALS\C#\intro-github\NewApp\obj\Debug\net9.0\NewApp.sourcelink.json
