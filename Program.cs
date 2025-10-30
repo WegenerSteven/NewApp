@@ -4,6 +4,10 @@ using System.Linq;
 
 namespace Hello;
 
+public class GitHub
+{
+    
+}
 public class HelloWorld
 {
     static void Main(string[] args)
